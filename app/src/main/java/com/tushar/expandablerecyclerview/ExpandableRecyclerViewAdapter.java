@@ -1,7 +1,5 @@
-package in.aroliant.expandablerecyclerview;
+package com.tushar.expandablerecyclerview;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
 import android.content.Context;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.GridLayoutManager;

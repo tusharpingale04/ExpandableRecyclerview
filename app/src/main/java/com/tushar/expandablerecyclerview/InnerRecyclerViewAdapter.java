@@ -1,4 +1,4 @@
-package in.aroliant.expandablerecyclerview;
+package com.tushar.expandablerecyclerview;
 
 import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;

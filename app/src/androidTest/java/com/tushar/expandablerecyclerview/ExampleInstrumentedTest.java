@@ -1,4 +1,4 @@
-package in.aroliant.expandablerecyclerview;
+package com.tushar.expandablerecyclerview;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
