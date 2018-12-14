@@ -1,3 +1,3 @@
 # ExpandableRecyclerview
 
-Sample to demonstrate Expandable Recyclerview
+Sample to demonstrate Expandable Recyclerview in Android
